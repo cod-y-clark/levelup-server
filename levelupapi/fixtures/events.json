@@ -1,0 +1,13 @@
+[
+    {
+        "model": "levelupapi.event",
+        "pk": 1,
+        "fields": {
+            "game": 1,
+            "description": "Meet and greet to play the best handyman RPG!",
+            "date": "2022-12-25",
+            "time": "19:00",
+            "organizer": 1
+        }
+    }
+]   

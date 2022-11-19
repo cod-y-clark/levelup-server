@@ -1,0 +1,38 @@
+[
+    {
+        "model": "levelupapi.game",
+        "pk": 1,
+        "fields": {
+            "game_type": 2,
+            "title": "Hammer Party",
+            "maker": "Big Game Co.",
+            "gamer": 1,
+            "number_of_players": 4,
+            "skill_level": 7
+        }
+    },
+    {
+        "model": "levelupapi.game",
+        "pk": 2,
+        "fields": {
+            "game_type": 1,
+            "title": "Pencil Toss",
+            "maker": "Big Game Co.",
+            "gamer": 1,
+            "number_of_players": 1,
+            "skill_level": 2
+        }
+    },
+    {
+        "model": "levelupapi.game",
+        "pk": 3,
+        "fields": {
+            "game_type": 3,
+            "title": "Slap Back",
+            "maker": "Big Game Co.",
+            "gamer": 1,
+            "number_of_players": 10,
+            "skill_level": 1
+        }
+    }
+]
